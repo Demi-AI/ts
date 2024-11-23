@@ -57,6 +57,7 @@ body {
   transform: scale(1.1); /* 鼠标悬停时放大 */
 }
 
+
 /* 页面切换过渡效果 */
 .fade-enter {
   opacity: 0;
@@ -610,7 +611,6 @@ body {
     display: none; /* 隱藏側邊欄 */
   }
 }
-
 
 /* 设置欢迎信息的样式 */
 .welcome-message {
