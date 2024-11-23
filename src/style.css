@@ -580,7 +580,7 @@ p {
   --spacing-large: 24px;
   --border-radius: 8px;
   --font-family: Arial, sans-serif;
-  padding-top: 32px; /* 确保页面内容不会被导航栏遮挡 */
+  padding-top: 48px; /* 确保页面内容不会被导航栏遮挡 */
 
 }
 
